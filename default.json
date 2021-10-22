@@ -1,0 +1,17 @@
+{
+    "extends": [
+        "config:base",
+
+        ":assignee(d3c0d3dpt)",
+        ":automergeMinor",
+
+        "group:allNonMajor"
+    ],
+
+    "bumpVersion": "patch",
+    "branchPrefix": "renovate-",
+    "commitMessagePrefix": ":arrow_up:",
+
+    "schedule": "before 6am",
+    "timezone": "Europe/Lisbon"
+}
