@@ -1,0 +1,8 @@
+{
+    "extends": [
+        "local>d3c0d3dpt/renovate-config"
+    ],
+    "ignoreDeps": [
+        "sass-loader"
+    ]
+}
