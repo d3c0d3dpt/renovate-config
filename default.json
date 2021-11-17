@@ -10,7 +10,7 @@
 
     "bumpVersion": "patch",
     "branchPrefix": "renovate-",
-    "commitMessagePrefix": ":arrow_up:",
+    "commitMessagePrefix": "⬆️",
 
     "schedule": "before 6am",
     "timezone": "Europe/Lisbon"
