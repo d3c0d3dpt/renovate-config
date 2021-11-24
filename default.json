@@ -10,8 +10,8 @@
     
     "docker-compose": {
         "fileMatch": [
-            "(^|/)docker-compose[^/]*\.ya?ml$",
-            "(^|/)stack-compose[^/]*\.ya?ml$"
+            "(^|/)docker-compose[^/]*\\.ya?ml$",
+            "(^|/)stack-compose[^/]*\\.ya?ml$"
         ]
     },
 
