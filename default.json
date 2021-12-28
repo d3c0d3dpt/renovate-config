@@ -19,6 +19,9 @@
     "branchPrefix": "renovate-",
     "commitMessagePrefix": "⬆️",
 
-    "schedule": "before 6am",
-    "timezone": "Europe/Lisbon"
+    "timezone": "Europe/Lisbon",
+    "schedule": [
+        "after 2am"
+        "before 6am"
+    ]
 }
