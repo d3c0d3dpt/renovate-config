@@ -21,7 +21,7 @@
 
     "timezone": "Europe/Lisbon",
     "schedule": [
-        "after 2am",
-        "before 6am"
+        "after 2am and before 3am",
+        "after 4am and before 5am"
     ]
 }
