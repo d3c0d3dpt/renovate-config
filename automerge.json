@@ -3,9 +3,5 @@
         "local>d3c0d3dpt/renovate-config"
     ],
     
-    "automergeType": "branch",
-    "automergeSchedule": [
-        "after 3am and before 4am",
-        "after 5am and before 6am"
-    ]
+    "automergeType": "branch"
 }
