@@ -3,5 +3,8 @@
         "local>d3c0d3dpt/renovate-config"
     ],
     
-    "automergeType": "branch"
+    "automergeType": "branch",
+    
+    "branchConcurrentLimit": 10,
+    "prConcurrentLimit": 5,
 }
