@@ -3,9 +3,7 @@
         "config:base",
 
         ":assignee(d3c0d3dpt)",
-        ":automergeMinor",
-
-        "group:allNonMajor"
+        ":automergeMinor"
     ],
     
     "docker-compose": {
