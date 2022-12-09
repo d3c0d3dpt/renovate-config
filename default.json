@@ -18,6 +18,9 @@
     "bumpVersion": "patch",
     "branchPrefix": "renovate-",
     "commitMessagePrefix": "⬆️",
+    
+    "branchConcurrentLimit": 5,
+    "prConcurrentLimit": 3,
 
     "timezone": "Europe/Lisbon",
     "schedule": [
