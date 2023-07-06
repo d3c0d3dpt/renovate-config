@@ -1,10 +1,9 @@
 {
     "extends": [
-        "local>d3c0d3dpt/renovate-config"
+        "local>d3c0d3dpt/renovate-config",
+
+        ":automergeMinor"
     ],
     
-    "automergeType": "branch",
-    
-    "branchConcurrentLimit": 10,
-    "prConcurrentLimit": 5,
+    "automergeType": "branch"
 }

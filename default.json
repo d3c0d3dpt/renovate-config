@@ -2,8 +2,7 @@
     "extends": [
         "config:base",
 
-        ":assignee(d3c0d3dpt)",
-        ":automergeMinor"
+        ":assignee(d3c0d3dpt)"
     ],
     
     "docker-compose": {
